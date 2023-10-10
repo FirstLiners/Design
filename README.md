@@ -1,2 +1,5 @@
-# Design
-Design readme and link to FIGMA page
+# Команда дизайна
+
+Ссылка на Фигму
+
+
